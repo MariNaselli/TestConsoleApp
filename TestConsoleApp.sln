@@ -13,6 +13,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayManagement", "ArrayMan
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayManagement.Tests", "ArrayManagement.Tests\ArrayManagement.Tests.csproj", "{5DBCA3B3-4F3C-4E40-BE1E-A1978BD1024C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayManagementClassLibrary", "ArrayManagementClassLibrary\ArrayManagementClassLibrary.csproj", "{365982F9-61D7-4500-850E-C1E80592836F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayManagement.Tests.ClassLibrary", "ArrayManagement.Tests.ClassLibrary\ArrayManagement.Tests.ClassLibrary.csproj", "{A385C9CE-7C81-41E5-94A4-6700B88DC8C5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +43,14 @@ Global
 		{5DBCA3B3-4F3C-4E40-BE1E-A1978BD1024C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5DBCA3B3-4F3C-4E40-BE1E-A1978BD1024C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5DBCA3B3-4F3C-4E40-BE1E-A1978BD1024C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{365982F9-61D7-4500-850E-C1E80592836F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{365982F9-61D7-4500-850E-C1E80592836F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{365982F9-61D7-4500-850E-C1E80592836F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{365982F9-61D7-4500-850E-C1E80592836F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A385C9CE-7C81-41E5-94A4-6700B88DC8C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A385C9CE-7C81-41E5-94A4-6700B88DC8C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A385C9CE-7C81-41E5-94A4-6700B88DC8C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A385C9CE-7C81-41E5-94A4-6700B88DC8C5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
