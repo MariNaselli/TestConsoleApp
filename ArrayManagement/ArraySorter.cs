@@ -21,7 +21,7 @@ using System.Threading.Tasks;
 
 namespace ArrayManagement
 {
-    internal class ArraySorter
+    public class ArraySorter
     {
         public static int FindIndexOfMin(int[] array, int fromIndex, int toIndex)
         {

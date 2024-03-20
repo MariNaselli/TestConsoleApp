@@ -11,6 +11,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestConsole.Tests", "TestCo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayManagement", "ArrayManagement\ArrayManagement.csproj", "{A6C8982F-E586-4572-8F23-6C93825C5184}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayManagement.Tests", "ArrayManagement.Tests\ArrayManagement.Tests.csproj", "{5DBCA3B3-4F3C-4E40-BE1E-A1978BD1024C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{A6C8982F-E586-4572-8F23-6C93825C5184}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A6C8982F-E586-4572-8F23-6C93825C5184}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A6C8982F-E586-4572-8F23-6C93825C5184}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5DBCA3B3-4F3C-4E40-BE1E-A1978BD1024C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DBCA3B3-4F3C-4E40-BE1E-A1978BD1024C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DBCA3B3-4F3C-4E40-BE1E-A1978BD1024C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DBCA3B3-4F3C-4E40-BE1E-A1978BD1024C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
