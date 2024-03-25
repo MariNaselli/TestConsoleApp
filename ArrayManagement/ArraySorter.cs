@@ -25,6 +25,8 @@ namespace ArrayManagement
     {
         public static int FindIndexOfMin(int[] array, int fromIndex, int toIndex)
         {
+
+            //uint para no hacer la validacion entiendo..
             int result = -1;
             //Validamos que el array no està vacio
             if (array.Length != 0)

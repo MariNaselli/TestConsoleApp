@@ -2,7 +2,7 @@
 using ArrayManagement;
 using System;
 
-//Console.WriteLine("Probando Array..");
+Console.WriteLine("Probando Array..");
 
 int[] array = [9, 4, 5, 8, 2, 6];
 int fromIndex = 0;
