@@ -17,7 +17,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArrayManagementClassLibrary
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArrayManagement.Tests.ClassLibrary", "ArrayManagement.Tests.ClassLibrary\ArrayManagement.Tests.ClassLibrary.csproj", "{A385C9CE-7C81-41E5-94A4-6700B88DC8C5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppCourseUtils", "AppCourseUtils\AppCourseUtils.csproj", "{DC350D35-2D29-43D0-BA02-60BFB7C660C7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AppCourseUtils", "AppCourseUtils\AppCourseUtils.csproj", "{DC350D35-2D29-43D0-BA02-60BFB7C660C7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppCourseUtils.Tests", "AppCourseUtils.Tests\AppCourseUtils.Tests.csproj", "{3F305D86-E673-4576-A342-D3AF41350C19}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +59,10 @@ Global
 		{DC350D35-2D29-43D0-BA02-60BFB7C660C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DC350D35-2D29-43D0-BA02-60BFB7C660C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DC350D35-2D29-43D0-BA02-60BFB7C660C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F305D86-E673-4576-A342-D3AF41350C19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F305D86-E673-4576-A342-D3AF41350C19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F305D86-E673-4576-A342-D3AF41350C19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F305D86-E673-4576-A342-D3AF41350C19}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
