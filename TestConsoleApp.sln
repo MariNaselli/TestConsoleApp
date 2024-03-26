@@ -9,13 +9,15 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestConsoleNet48", "TestCon
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestConsole.Tests", "TestConsole.Tests\TestConsole.Tests.csproj", "{B390EF5B-CE45-47CD-AA95-85D3D1943BD2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayManagement", "ArrayManagement\ArrayManagement.csproj", "{A6C8982F-E586-4572-8F23-6C93825C5184}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArrayManagement", "ArrayManagement\ArrayManagement.csproj", "{A6C8982F-E586-4572-8F23-6C93825C5184}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayManagement.Tests", "ArrayManagement.Tests\ArrayManagement.Tests.csproj", "{5DBCA3B3-4F3C-4E40-BE1E-A1978BD1024C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArrayManagement.Tests", "ArrayManagement.Tests\ArrayManagement.Tests.csproj", "{5DBCA3B3-4F3C-4E40-BE1E-A1978BD1024C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayManagementClassLibrary", "ArrayManagementClassLibrary\ArrayManagementClassLibrary.csproj", "{365982F9-61D7-4500-850E-C1E80592836F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArrayManagementClassLibrary", "ArrayManagementClassLibrary\ArrayManagementClassLibrary.csproj", "{365982F9-61D7-4500-850E-C1E80592836F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayManagement.Tests.ClassLibrary", "ArrayManagement.Tests.ClassLibrary\ArrayManagement.Tests.ClassLibrary.csproj", "{A385C9CE-7C81-41E5-94A4-6700B88DC8C5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArrayManagement.Tests.ClassLibrary", "ArrayManagement.Tests.ClassLibrary\ArrayManagement.Tests.ClassLibrary.csproj", "{A385C9CE-7C81-41E5-94A4-6700B88DC8C5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppCourseUtils", "AppCourseUtils\AppCourseUtils.csproj", "{DC350D35-2D29-43D0-BA02-60BFB7C660C7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{A385C9CE-7C81-41E5-94A4-6700B88DC8C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A385C9CE-7C81-41E5-94A4-6700B88DC8C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A385C9CE-7C81-41E5-94A4-6700B88DC8C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC350D35-2D29-43D0-BA02-60BFB7C660C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC350D35-2D29-43D0-BA02-60BFB7C660C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC350D35-2D29-43D0-BA02-60BFB7C660C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC350D35-2D29-43D0-BA02-60BFB7C660C7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
